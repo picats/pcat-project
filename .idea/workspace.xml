@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a14ad803-780d-416e-91db-c8b4e1087e19" name="Default Changelist" comment="">
+    <list default="true" id="a14ad803-780d-416e-91db-c8b4e1087e19" name="Default Changelist" comment="1.模块建立关联关系">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pcat-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pcat-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pcat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pcat/pom.xml" afterDir="false" />
     </list>
-    <option name="SHOW_DIALOG" value="false" />
+    <list id="879493a9-8d4f-45e8-9efa-2c5e196ff285" name="忽略" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="true" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FavoritesManager">
     <favorites_list name="pcat" />
   </component>
@@ -23,6 +27,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="7" start2="3" end2="6" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="8" end1="9" start2="7" end2="8" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="10" end1="11" start2="9" end2="10" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="13" end1="13" start2="12" end2="13" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="50" end1="50" start2="50" end2="51" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="55" end1="56" start2="56" end2="57" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="111" end1="111" start2="112" end2="113" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="145" end1="145" start2="147" end2="158" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="164" end1="165" start2="177" end2="178" changelist="879493a9-8d4f-45e8-9efa-2c5e196ff285" />
+        <range start1="167" end1="168" start2="180" end2="189" changelist="a14ad803-780d-416e-91db-c8b4e1087e19" />
+      </ranges>
+    </file>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -48,12 +68,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -109,6 +130,7 @@
       </method>
     </configuration>
   </component>
+  <component name="ShelveChangesManager" show_recycled="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -144,6 +166,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.测试提交" />
     <MESSAGE value="1.创建两个模块" />
@@ -162,10 +195,18 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1060" y="460" key="FileChooserDialogImpl/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626080435380" />
-    <state x="781" y="347" key="SettingsEditor" timestamp="1626080458573">
+    <state x="781" y="347" key="SettingsEditor" timestamp="1626086774413">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="781" y="347" key="SettingsEditor/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626080458573" />
+    <state x="781" y="347" key="SettingsEditor/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626086774413" />
+    <state x="1126" y="620" key="VCS.ChangelistChooser" timestamp="1626086570920">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1126" y="620" key="VCS.ChangelistChooser/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626086570920" />
+    <state x="1110" y="574" key="VCS.EditChangelistDialog" timestamp="1626086531987">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1110" y="574" key="VCS.EditChangelistDialog/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626086531987" />
     <state x="872" y="426" key="Vcs.Push.Dialog.v2" timestamp="1626084693158">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

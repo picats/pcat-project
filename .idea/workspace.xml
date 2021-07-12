@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a14ad803-780d-416e-91db-c8b4e1087e19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pcat-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pcat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pcat-project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pcat-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pcat-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pcat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pcat/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +122,7 @@
       <workItem from="1626079177309" duration="1244000" />
       <workItem from="1626080831985" duration="743000" />
       <workItem from="1626083889413" duration="610000" />
-      <workItem from="1626084527134" duration="79000" />
+      <workItem from="1626084527134" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="1.测试提交">
       <created>1626084125238</created>
@@ -134,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626084125238</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.创建两个模块">
+      <created>1626084690496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626084690496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,13 +146,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.测试提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.测试提交" />
+    <MESSAGE value="1.创建两个模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.创建两个模块" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="880" y="295" key="CommitChangelistDialog2" timestamp="1626084124336">
+    <state x="880" y="295" key="CommitChangelistDialog2" timestamp="1626084689629">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="880" y="295" key="CommitChangelistDialog2/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626084124336" />
+    <state x="880" y="295" key="CommitChangelistDialog2/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626084689629" />
     <state x="248" y="123" key="DiffContextDialog" timestamp="1626084021924">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -161,10 +166,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="781" y="347" key="SettingsEditor/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626080458573" />
-    <state x="872" y="426" key="Vcs.Push.Dialog.v2" timestamp="1626084138931">
+    <state x="872" y="426" key="Vcs.Push.Dialog.v2" timestamp="1626084693158">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="872" y="426" key="Vcs.Push.Dialog.v2/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626084138931" />
+    <state x="872" y="426" key="Vcs.Push.Dialog.v2/-1920.360.1280.700/0.0.2560.1410@0.0.2560.1410" timestamp="1626084693158" />
     <state x="960" y="529" key="com.intellij.ide.util.TipDialog" timestamp="1626083889958">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

@@ -6,3 +6,15 @@
 /.idea/misc.xml
 /.idea/uiDesigner.xml
 /.idea/vcs.xml
+/pcat-api/target/classes/com/pcat/module/test/bo/TestBo$TestBoBuilder.class
+/pcat-api/target/classes/com/pcat/module/test/bo/TestBo.class
+/pcat-api/target/classes/com/pcat/module/test/service/
+/pcat-api/target/classes/com/pcat/module/test/service/TestService.class
+/pcat-web-app/target/classes/com/pcat/web/
+/pcat-web-app/target/classes/com/pcat/web/controller/
+/pcat-web-app/target/classes/com/pcat/web/controller/WebController.class
+/pcat-web-app/target/classes/com/pcat/web/dto/
+/pcat-web-app/target/classes/com/pcat/web/dto/TestDto.class
+/pcat-web-app/target/classes/com/pcat/web/utils/
+/pcat-web-app/target/classes/com/pcat/web/utils/ChannelUtil.class
+/pcat-web-app/target/classes/com/pcat/web/WebApplication.class

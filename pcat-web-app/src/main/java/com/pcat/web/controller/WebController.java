@@ -6,6 +6,7 @@ import com.pcat.module.test.service.TestService;
 import com.pcat.web.dto.TestDto;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.dubbo.config.annotation.DubboReference;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,12 +15,13 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @author zhaoy
  **/
-@RequestMapping(value = "/api/p/test")
-@RestController
+
 @Slf4j
+@RestController
+@RequestMapping(value = "/api/p/test")
 public class WebController {
 
-    @DubboReference
+    @Autowired
     private TestService testService;
 
     @PostMapping(value = "/test.json")
@@ -29,3 +31,5 @@ public class WebController {
         return testService.test(testBo);
     }
 }
+
+

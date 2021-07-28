@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: pcat-web-app
+
+dubbo:
+  cloud:
+    subscribed-services: "pcat"

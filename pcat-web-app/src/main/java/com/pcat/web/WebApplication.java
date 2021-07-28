@@ -10,7 +10,7 @@ import org.springframework.context.annotation.FilterType;
  * @author zhaoy
  **/
 @SpringCloudApplication
-@ComponentScan(value = "com.pcat.web", excludeFilters = {
+@ComponentScan(value = "com.pcat", excludeFilters = {
         @ComponentScan.Filter(type = FilterType.ASSIGNABLE_TYPE, classes = {
                 ChannelUtil.class,
         })

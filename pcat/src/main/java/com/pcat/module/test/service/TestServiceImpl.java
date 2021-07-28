@@ -2,13 +2,14 @@ package com.pcat.module.test.service;
 
 import com.pcat.module.test.bo.TestBo;
 import org.apache.dubbo.config.annotation.DubboService;
+import org.springframework.stereotype.Service;
 
 /**
  * test
  *
  * @author zhaoy
  **/
-@DubboService
+@Service
 public class TestServiceImpl implements TestService{
 
     @Override
